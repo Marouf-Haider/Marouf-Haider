@@ -1,15 +1,17 @@
-<h1 align="center" dir="rtl" style="font-weight:bold;">بسم الله الرحمان الرحيم</h1>
+<h1 align="center" dir="rtl" style="font-family:'Amiri', serif; font-size:1.5em;">بسم الله الرحمان الرحيم</h1>
 
 <h2 align="center">Hi, I'm Haider Marouf!</h2>
-
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algerian Flag" width="60" />
+</p>
 ---
 
  <strong>About Me</strong>
 
 <ul>
-  <li><img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="20" style="vertical-align:middle;" alt="DZ" /> Algerian, currently finishing my 4th year at the National Higher School of Mathematics, Algiers.</li>
-  <li><img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="20" style="vertical-align:middle;" alt="School" /> Alumni of the National High School of Maths, Kouba.</li>
-  <li><img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="20" style="vertical-align:middle;" alt="Shield" /> 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flag.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="DZ" /> Algerian, currently finishing my 4th year at the National Higher School of Mathematics, Algiers.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/school.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="School" /> Alumni of the National High School of Maths, Kouba.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shield.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Shield" /> 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
 </ul>
 
 ---
@@ -17,12 +19,12 @@
  <strong>Tech & Skills</strong>
 
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align:middle;" alt="Python" /> Python (numerical computations, problem solving, Jupyter Notebooks)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" style="vertical-align:middle;" alt="VS Code" /> VS Code (beginner/intermediate)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="20" style="vertical-align:middle;" alt="MATLAB" /> MATLAB, Maple (more than basic knowledge)</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="20" style="vertical-align:middle;" alt="LaTeX" /> LaTeX/Beamer (above average skills)</li>
-  <li><img src="https://cdn-icons-png.flaticon.com/512/2922/2922017.png" width="20" style="vertical-align:middle;" alt="Design" /> Design, video making, photography</li>
-  <li><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20" style="vertical-align:middle;" alt="Math" /> Passionate about mathematics</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Python" /> Python (numerical computations, problem solving, Jupyter Notebooks)</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="VS Code" /> VS Code (beginner/intermediate)</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mathworks.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="MATLAB" /> MATLAB, Maple (more than basic knowledge)</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LaTeX" /> LaTeX/Beamer (above average skills)</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Design" /> Design, video making, photography</li>
+<li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pi.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Pi" /> Passionate about mathematics</li>
 </ul>
 
 ---
@@ -40,7 +42,8 @@
 📫 <strong>Connect with Me</strong>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/haider-marouf-1149b1316"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20" style="vertical-align:middle;" alt="LinkedIn" /> LinkedIn</a></li>
+  <li><a href="mailto:haider.marouf@nhsm.edu.dz"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email</a></li>
+  <li><a href="https://www.linkedin.com/in/haider-marouf-1149b1316"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LinkedIn" /> LinkedIn</a></li>
 </ul>
 
 ---
