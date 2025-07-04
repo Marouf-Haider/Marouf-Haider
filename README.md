@@ -7,9 +7,6 @@
 </p>
 
 <h1 align="center">Hi, I'm Haider Marouf!</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Math Animation" />
-</p>
 
 ---
 
