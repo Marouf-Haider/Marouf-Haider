@@ -10,7 +10,7 @@
 
 ---
 
-🎓 <strong>About Me</strong>
+ <strong>About Me</strong>
 
 <ul>
   <li><img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="20" style="vertical-align:middle;" alt="DZ" /> Algerian, currently finishing my 4th year at the National Higher School of Mathematics, Algiers.</li>
@@ -20,7 +20,7 @@
 
 ---
 
-💻 <strong>Tech & Skills</strong>
+ <strong>Tech & Skills</strong>
 
 <ul>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="vertical-align:middle;" alt="Python" /> Python (numerical computations, problem solving, Jupyter Notebooks)</li>
@@ -33,7 +33,7 @@
 
 ---
 
-🌱 <strong>Current Focus</strong>
+ <strong>Current Focus</strong>
 
 <ul>
   <li>Deepening my expertise in cryptography and security</li>
