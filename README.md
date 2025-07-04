@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Algeria--green?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Algeria Flag" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="40" alt="LaTeX" />
-</p>
+<p align="center" dir="rtl" style="font-size:1.5em; font-weight:bold;">بسم الله الرحمان الرحيم</p>
 
 <h1 align="center">Hi, I'm Haider Marouf!</h1>
 
