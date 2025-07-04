@@ -1,14 +1,13 @@
-<h1 align="center" dir="rtl" style="font-size:1.5em;">بسم الله الرحمان الرحيم</h1>
-
+<h1 align="center" dir="rtl">بسم الله الرحمان الرحيم</h1>
 <h2 align="center">Hi there, I'm Haider Marouf!</h2>
 <p align="center">
     <img src="algeria-flag.png" alt="Algerian Flag" width="100" />
     <img src="nhsm_logo.png" width="100" style="vertical-align:middle;" alt="NHSM" />
 </p>
+
 ---
 
  ## About Me
-
 <ul>
   <li>📚 4th year student at the National Higher School of Mathematics, Algiers.</li>
   <li>🎓 Alumni of the National High School of Maths, Kouba.</li>
@@ -31,7 +30,7 @@
 
 ---
 
- <strong>Current Focus</strong>
+## Current Focus
 
 <ul>
   <li>Deepening my expertise in cryptography and security</li>
@@ -43,20 +42,10 @@
 ## GitHub Stats
 ![Marouf-Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouf-Haider&show_icons=true)
 ---
-📫 <strong>Connect with Me</strong>
+## 📫 Connect with Me
 
 <ul>
 <li><a href="mailto:haider.marouf@nhsm.edu.dz"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email (School)</a></li>
 <li><a href="mailto:ensmmarouf@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email (Personal)</a></li>
 <li><a href="https://www.linkedin.com/in/haider-marouf-1149b1316"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LinkedIn" /> LinkedIn</a></li>
 </ul>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Coding Animation" />
-</p>
-
----
-
-✨ <em>"Applied mathematics is not a branch of mathematics, but rather a way of doing mathematics."</em> ✨
