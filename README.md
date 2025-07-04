@@ -40,7 +40,9 @@
 </ul>
 
 ---
-
+## GitHub Stats
+![Marouf-Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouf-Haider&show_icons=true)
+---
 📫 <strong>Connect with Me</strong>
 
 <ul>
