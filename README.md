@@ -42,7 +42,7 @@
 ## GitHub Stats
 ![Marouf-Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouf-Haider&show_icons=true)
 ---
-## 📫 Connect with Me
+## Contacts
 
 <ul>
 <li><a href="mailto:haider.marouf@nhsm.edu.dz"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email (School)</a></li>
