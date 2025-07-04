@@ -40,7 +40,7 @@
 
 ---
 ## GitHub Stats
-![Marouf-Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouf-Haider&show_icons=true)
+![Marouf-Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marouf-Haider&show_icons=true&theme=transparent)
 ---
 ## Contacts
 
