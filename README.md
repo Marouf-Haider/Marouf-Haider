@@ -2,14 +2,14 @@
 
 <h2 align="center">Hi, I'm Haider Marouf!</h2>
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algerian Flag" width="60" />
+    <img src="algeria-flag.png" alt="Algerian Flag" width="100" />
 </p>
 ---
 
  <strong>About Me</strong>
 
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flag.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="DZ" /> Algerian, currently finishing my 4th year at the National Higher School of Mathematics, Algiers.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/flag.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="DZ" /> 4th year student at the National Higher School of Mathematics, Algiers.</li>
   <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/school.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="School" /> Alumni of the National High School of Maths, Kouba.</li>
   <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/shield.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Shield" /> 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
 </ul>
