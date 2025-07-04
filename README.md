@@ -19,12 +19,13 @@
  <strong>Tech & Skills</strong>
 
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Python" /> Python (numerical computations, problem solving, Jupyter Notebooks)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="VS Code" /> VS Code (beginner/intermediate)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mathworks.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="MATLAB" /> MATLAB, Maple (more than basic knowledge)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LaTeX" /> LaTeX/Beamer (above average skills)</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Design" /> Design, video making, photography</li>
-<li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pi.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Pi" /> Passionate about mathematics</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Python" /> Python (proficient in numerical analysis, problem solving, and Jupyter Notebooks)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="VS Code" /> VS Code (comfortable at an intermediate level)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mathworks.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="MATLAB" /> MATLAB (solid working knowledge)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maple.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Maple" /> Maple (solid working knowledge)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/latex.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LaTeX" /> LaTeX/Beamer (strong command and experience)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Design" /> Design, video production, and photography (creative and practiced)</li>
+    <li><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pi.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Pi" /> Deep enthusiasm for mathematics</li>
 </ul>
 
 ---
@@ -33,7 +34,7 @@
 
 <ul>
   <li>Deepening my expertise in cryptography and security</li>
-  <li>Exploring creative design and video projects</li>
+<li>Focusing on my final year project and working towards earning my engineering degree</li>
   <li>Always learning, always curious!</li>
 </ul>
 
@@ -42,8 +43,9 @@
 📫 <strong>Connect with Me</strong>
 
 <ul>
-  <li><a href="mailto:haider.marouf@nhsm.edu.dz"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email</a></li>
-  <li><a href="https://www.linkedin.com/in/haider-marouf-1149b1316"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LinkedIn" /> LinkedIn</a></li>
+<li><a href="mailto:haider.marouf@nhsm.edu.dz"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email (School)</a></li>
+<li><a href="mailto:ensmmarouf@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="Email" /> Email (Personal)</a></li>
+<li><a href="https://www.linkedin.com/in/haider-marouf-1149b1316"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" style="vertical-align:middle;filter: grayscale(100%);" alt="LinkedIn" /> LinkedIn</a></li>
 </ul>
 
 ---
