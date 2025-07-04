@@ -1,4 +1,4 @@
-<p align="center" dir="rtl" style="font-size:1.5em; font-weight:bold;">بسم الله الرحمان الرحيم</p>
+<p align="center" dir="rtl" style="font-size:5em; font-weight:bold;">بسم الله الرحمان الرحيم</p>
 
 <h1 align="center">Hi, I'm Haider Marouf!</h1>
 
