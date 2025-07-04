@@ -1,11 +1,5 @@
 <h1 align="center" dir="rtl">بسم الله الرحمان الرحيم</h1>
 <h2 align="center">Hi there, I'm Haider Marouf!</h2>
-<p align="center">
-    <img src="algeria-flag.png" alt="Algerian Flag" width="100" />
-    <img src="nhsm_logo.png" width="100" style="vertical-align:middle;" alt="NHSM" />
-</p>
-
----
 
  ## About Me
 <ul>
