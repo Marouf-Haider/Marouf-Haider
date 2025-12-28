@@ -6,9 +6,9 @@
 
  ## About Me
 <ul>
-  <li>📚 4th year student at the National Higher School of Mathematics, Algiers.</li>
-  <li>🎓 Alumni of the National High School of Maths, Kouba.</li>
-  <li>⏳ 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
+  <li> Final year engineering student at the National Higher School of Mathematics, Algiers.</li>
+  <li> Alumni of the National High School of Maths, Kouba.</li>
+  <li> 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
 </ul>
 
 ---
