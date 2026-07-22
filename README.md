@@ -1,6 +1,6 @@
 <h1 align="center" dir="rtl">بسم الله الرحمان الرحيم</h1>
 <p align = "center">
- <img src= "M.Haider_GitHub_banner.png" width = "80%" alt ="Marouf Haider banner" />
+ <img src= "Marouf_Haider_Banner_new.png" width = "80%" alt ="Marouf Haider banner" />
 </p>
 <h1 align="center">Hi there, I'm Haider Marouf!</h1>
 
