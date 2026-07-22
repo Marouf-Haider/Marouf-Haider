@@ -6,9 +6,9 @@
 
  ## About Me
 <ul>
-  <li> Final year engineering student at the National Higher School of Mathematics, Algiers.</li>
-  <li> Alumni of the National High School of Maths, Kouba.</li>
-  <li> 1 year left to earn my engineering degree in Cryptography, Coding & Security.</li>
+  <li>Applied Mathematics Engineer at the National Higher School of Mathematics, Algiers.</li>
+   <li> Specialized in Cryptology, Coding & Security.</li>
+  <li> Graduate of the National High School of Mathematics, Kouba, Algiers.</li>
 </ul>
 
 ---
@@ -17,12 +17,13 @@
 
 <ul>
     <li> Python (proficient in numerical analysis, problem solving, and Jupyter Notebooks)</li>
-    <li> VS Code (comfortable at an intermediate level)</li>
-    <li> MATLAB (solid working knowledge)</li>
-    <li> Maple (solid working knowledge)</li>
-    <li> LaTeX/Beamer (strong command and experience)</li>
-    <li> Design, video production, and photography (creative and practiced)</li>
-    <li> Deep enthusiasm for mathematics</li>
+    <li> VS Code</li>
+    <li> MATLAB</li>
+    <li> Maple </li>
+     <li> Magma </li>
+    <li> LaTeX/Beamer</li>
+    <li> Design, video production, and photography </li>
+    <li> Passionate about mathematics</li>
 </ul>
 
 ---
@@ -30,9 +31,9 @@
 ## Current Focus
 
 <ul>
-  <li>Deepening my expertise in cryptography and security</li>
-<li>Focusing on my final year project and working towards earning my engineering degree</li>
-  <li>Always learning, always curious!</li>
+  <li>Currently exploring concepts in cryptography and cryptanalysis, including lightweight cipher designs, known attacks, and post-quantum cryptography.</li>
+  <li>Continuously improving my programming skills. </li>
+  <li>Working on my Master’s thesis in non-commutative rings.</li>
 </ul>
 
 ---
